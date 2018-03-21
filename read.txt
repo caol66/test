@@ -1,0 +1,17 @@
+Git Bash Here
+
+git clone https://github.com/wenliang1387/https.git
+
+cd https
+
+git add .
+
+git commit  -m  "提交信息"
+
+git push -u origin master
+
+https://github.com/wenliang1387/test.git
+
+[user]
+	email = cliang00@163.com
+	name = test
